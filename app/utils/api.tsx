@@ -1,7 +1,7 @@
 import axios from 'axios';
 import { Movie } from '../types/movie';
 
-const API_KEY = '79632b8feb29e1fe6c584b5cfb7b16fe';
+const API_KEY = 'private';
 const BASE_URL = 'https://api.themoviedb.org/3';
 
 const BASE_IMAGE_URL = 'https://image.tmdb.org/t/p/';
